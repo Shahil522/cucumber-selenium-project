@@ -1,3 +1,4 @@
+# Login test created on QA branch
 Feature: Login functionality
 
   Scenario Outline: Login with different credentials
